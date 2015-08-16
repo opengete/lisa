@@ -1,3 +1,4 @@
+Unchanged first line from source - Changed by Bob
 Unchanged first line from source = Not any more ;) - Lisa
 Second line
 Third line
